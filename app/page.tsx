@@ -32,13 +32,6 @@ const items = [
         fromColor: 'from-blue-200',
         toColor: 'to-orange-600'
     },
-    // {
-    //     title: "App Developer",
-    //     description: "NHS - Stevenage, UK",
-    //     time: "May 2018 - Sept 2018 · 5 months",
-    //     fromColor: 'from-pink-200',
-    //     toColor: 'to-indigo-600'
-    // }
 ]
 
 const Home: React.FunctionComponent = () => {
