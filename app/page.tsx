@@ -133,7 +133,7 @@ const Home: React.FunctionComponent = () => {
                       }}
                   >
                       <div className="z-10 relative text-center w-full flex flex-col items-center self-center hover:cursor-pointer">
-                          <div onClick={() => window.location.href = '/cv.pdf'} className="bg-gray-200 hover:cursor-pointer dark:bg-gray-500/20 rounded-lg px-2 py-1 border border-white/10 text-gray-600 dark:text-white/80 duration-300 ease-in-out transition-all hover:inner-border-2 hover:inner-border-blue-500 hover:shadow hover:shadow-blue-500">
+                          <div onClick={() => window.location.href = '/CV.pdf'} className="bg-gray-200 hover:cursor-pointer dark:bg-gray-500/20 rounded-lg px-2 py-1 border border-white/10 text-gray-600 dark:text-white/80 duration-300 ease-in-out transition-all hover:inner-border-2 hover:inner-border-blue-500 hover:shadow hover:shadow-blue-500">
                               Download Resume
                           </div>
                       </div>
