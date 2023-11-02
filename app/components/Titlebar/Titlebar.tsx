@@ -7,9 +7,9 @@ const Titlebar: React.FunctionComponent = () => {
             <p className="text-2xl font-bold">
                 Marques.
             </p>
-            <div>
-                <div className="flex gap-4 items-center">
-                    <Moon className="bg-gray-300 dark:bg-gray-700 rounded-lg duration-300 ease-in-out transition-all hover:inner-border-2 hover:inner-border-blue-500 hover:shadow-xl hover:shadow-blue-500 p-2" size={42} />
+            <div className="text-center flex flex-col w-fit">
+                <div className="bg-gray-200 dark:bg-gray-500/20 rounded px-2 py-1 border border-white/20 text-gray-600 dark:text-white/80 duration-300 ease-in-out transition-all hover:inner-border-2 hover:inner-border-blue-500 hover:shadow hover:shadow-blue-500">
+                    (っ◔◡◔)っ · Hannah · 12/02/22
                 </div>
             </div>
         </div>
