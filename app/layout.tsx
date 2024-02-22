@@ -7,6 +7,7 @@ const inter = Inter({ subsets: ['latin'] })
 export const metadata: Metadata = {
   title: 'Marques - Personal Portfolio',
   description: 'Marques Scripps - Personal Portfolio',
+  'cf-2fa-verify': 'f686deaa6c750a1'
 }
 
 export default function RootLayout({
