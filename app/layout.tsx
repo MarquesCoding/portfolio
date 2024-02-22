@@ -16,9 +16,6 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en" className='dark'>
-      <head>
-        <meta name="cf-2fa-verify" content="f686deaa6c750a1">
-      </head>
       <body className={`${inter.className}`}>{children}</body>
     </html>
   )
